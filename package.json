@@ -1,0 +1,16 @@
+{
+  "name": "gal-download-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pdfDownloader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node pdfDownloader.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "request": "^2.88.2"
+  }
+}
